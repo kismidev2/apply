@@ -339,7 +339,7 @@ variable "kubernetes_cluster__msaenterrg" {
 
 variable "name__msaenterrg" {
     type = string
-    default = "msaenterrg"
+    default = "myyang07"
     description = "[text] resource group name"
 }
 
